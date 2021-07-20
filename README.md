@@ -15,7 +15,7 @@ Ideally, the listed packages are publicly available, either on CRAN or on GitHub
 To list your R package:
 
 - Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended),
-- Or send us [an email](ronald.indergand@seco.admin.ch).
+- or send us [an email](ronald.indergand@seco.admin.ch).
 
 
 
