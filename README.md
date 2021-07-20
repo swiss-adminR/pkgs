@@ -28,6 +28,13 @@ temporal disaggregation methods are used to disaggregate and interpolate a low f
 **Used by:** State Secretariat of Economic Affairs
 
 
+#### [seasonal: R Interface to X-13-ARIMA-SEATS](https://cran.r-project.org/web/packages/seasonal/index.html)
+
+Easy-to-use interface to X-13-ARIMA-SEATS, the seasonal adjustment software by the US Census Bureau.
+
+**Used by:** State Secretariat of Economic Affairs
+
+
 ## Utility Packages
 
 
