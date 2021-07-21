@@ -47,7 +47,10 @@ Admindown provides an R Markdown template in line with the corporate design of t
 **How to access:** This is a private repo, access is granted to any federal office. [Just drop an email](mailto:angelica@cynkra.com).
 
 
+#### [statR: Corporate Design Toolbox for the Canton of Zurich](https://github.com/statistikZH/statR)
 
+statR provides functions to export nicely formatted .xlsx, color palettes, a ggplot theme and a html template to create data products with the corporate design of the canton of Zurich.
 
+**Used by:** Statistical Office Canton of Zurich; others
 
 
