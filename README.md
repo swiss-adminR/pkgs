@@ -17,6 +17,8 @@ To list your R package:
 - Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended),
 - or send us [an email](ronald.indergand@seco.admin.ch).
 
+Please inclue a title, a short description and mention the users of your package. Have a look at the first entry for a reference.
+
 
 
 ## Statistical Routines
