@@ -56,3 +56,10 @@ statR provides functions to export nicely formatted .xlsx, color palettes, a ggp
 **Used by:** Statistical Office Canton of Zurich; others
 
 
+#### [swissdd](https://github.com/politanch/swissdd)
+
+swissdd builds upon real time data service for federal and cantonal votes provided by the Federal Statistical Office via opendata.swiss. It brings the results of popular votes, aggregated at the geographical level of choice, straight into R. 
+
+**Used by:** Statistical Office Canton of Zurich; others
+
+
