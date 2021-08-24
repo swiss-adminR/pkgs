@@ -21,11 +21,35 @@ Please inclue a title, a short description and mention the users of your package
 
 
 
+
+## Data Handling
+
+#### [cubustat: Data Cubes Published by the Statistical Office of Canton Ticino](https://gitlab.com/gibonet/cubustat)
+
+This R package contains data cubes published by the statistical office of Canton Ticino (Ustat). All the data cubes are data.tables in long format, with only one numerical column. These results can also be downloaded in 3 formats (csv, xlsx, px) from the [Ustat website](https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=interattivi.tabelle_interattive).
+
+**Used by:** Statistical office of Canton Ticino (Ustat)
+
+
+#### [cubiapp: Shiny App for Filtering and Reshaping Information from Data Cubes](https://gitlab.com/gibonet/cubiapp)
+
+Shiny app to extract and reshape information from data cubes (from the Ustat site but with other data too). The package also contains shiny modules that could be used to create other shiny apps.
+
+**Used by:** Statistical office of Canton Ticino (Ustat)
+
+
+#### **[kofdata: Get Data from the 'KOF Datenservice' API](https://cran.r-project.org/web/packages/kofdata/index.html)**
+
+Read Swiss time series data from the 'KOF Datenservice' API, <https://datenservice.kof.ethz.ch>. The API provides macro economic time series data mostly about Switzerland. The package itself is a set of wrappers around the 'KOF Datenservice' API. The 'kofdata' package is able to consume public information as well as data that requires an API token.
+
+**Used by**: KOF Swiss Economic Institute, SNB, several cantonal statistical offices
+
+
 ## Statistical Routines
 
 #### [tempdisagg: Methods for Temporal Disaggregation and Interpolation of Time Series](https://cran.r-project.org/web/packages/tempdisagg/index.html)
 
-temporal disaggregation methods are used to disaggregate and interpolate a low frequency time series to a higher frequency series, where either the sum, the mean, the first or the last value of the resulting high frequency series is consistent with the low frequency series. 
+temporal disaggregation methods are used to disaggregate and interpolate a low frequency time series to a higher frequency series, where either the sum, the mean, the first or the last value of the resulting high frequency series is consistent with the low frequency series.
 
 **Used by:** State Secretariat of Economic Affairs
 
@@ -37,7 +61,8 @@ Easy-to-use interface to X-13-ARIMA-SEATS, the seasonal adjustment software by t
 **Used by:** State Secretariat of Economic Affairs
 
 
-## Utility Packages
+
+## Publication, Communication
 
 
 #### [admindown: CD-Bund Compatible R Markdown Theme](https://github.com/swiss-adminR/admindown)
