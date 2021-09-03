@@ -38,11 +38,52 @@ Shiny app to extract and reshape information from data cubes (from the Ustat sit
 **Used by:** Statistical office of Canton Ticino (Ustat)
 
 
-#### **[kofdata: Get Data from the 'KOF Datenservice' API](https://cran.r-project.org/web/packages/kofdata/index.html)**
+#### [kofdata: Get Data from the 'KOF Datenservice' API](https://cran.r-project.org/web/packages/kofdata/index.html)
 
 Read Swiss time series data from the 'KOF Datenservice' API, <https://datenservice.kof.ethz.ch>. The API provides macro economic time series data mostly about Switzerland. The package itself is a set of wrappers around the 'KOF Datenservice' API. The 'kofdata' package is able to consume public information as well as data that requires an API token.
 
 **Used by**: KOF Swiss Economic Institute, SNB, several cantonal statistical offices
+
+
+#### staagBevproj
+
+This package projects the population of canton Aargau at cantonal or regional level based on the demographic model of the Swiss Federal Statistical Office (FSO) released in May 2020.
+
+**Used by**: Statistik Aargau (internal application).
+
+**How to access**: This package is not available in a public repository. Send us an [email](mailto:tina.cornioley@ag.ch).
+
+
+#### staaggemeindeport
+
+This package contains the entire collection of code for the shiny app Gemeindeporträt Kanton Aargau which is published here: https://www.ag.ch/app/statistik_aargau_gemeindeportraet/. The app is based on public data published by Statistik Aargau (accessible via different APIs or [the official website](https://www.ag.ch/de/dfr/statistik/statistik.jsp)).
+
+**Used by:** Statistik Aargau (internal application).
+
+
+**How to access:** The package / Code has not been published online yet. Send us an [email](mailto:nelson.stevens@ag.ch).
+
+
+#### [MCMTdatalistcreation: functions to import MZMV raw data and organize it in a list class R data object](https://gitlab.com/MicheleUSTAT/mcmtdatalistcreation)
+
+This is the first out of three packages that were created to analyze the BFS "Mikrozensus Mobilität und Verkehr (MZMV) 2015" data. The analysis functions that are included in the MCMTdataanalysis package need a specific data input argument. Since the MZMV data can not be shared freely we created a function that will automatically create this data argument given a path to a folder that contains the original BFS data. This package is intended to be used as the first step to analyze the MZMV thanks to the MCMTdataanalysis package functions.
+
+**Used by:** Statistical office of Canton Ticino (Ustat)
+
+#### [MCMTdataprep: functions to select, clean and recode the MZMV 2015 data](https://gitlab.com/MicheleUSTAT/mcmtdataprep)
+
+The aim of this package is to provide a set of tools to select, clean and prepare the "Mikrozensus Mobilität und Verkehr (MZMV)" raw data, to be then analyzed with the MCMTdataanalysis package functions.
+The MCMTdataprep functions will make use of the data object previously created with the MCMTdatalistcreation package. It will import the data, and select, clean and recode the variables needed to produce the BFS [A2](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.2004971.html) table. This package is intended to be used as the second step to analyze the MZMV data. The MZMV data must be first passed through these functions to be analyzed thanks to the MCMTdataanalysis package.
+
+**Used by:** Statistical office of Canton Ticino (Ustat)
+
+#### [MCMTdataanalysis: functions to analyze the MZMV 2015](https://gitlab.com/MicheleUSTAT/mcmtdataanalysis)
+
+This package was created with the purpose to analyze the "Mikrozensus Mobilität und Verkehr (MZMV)" based on the BFS methodology. These functions allow any user to reproduce the results as presented in the BFS table [A2](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.2004971.html).
+The package makes use of the the [distrr](https://cran.r-project.org/web/packages/distrr/index.html) package, to build data cubes, and therefore to produce results in addition to those in the BFS table. This package is meant to be used after having processed the raw data with the MCMTdatalistcreation and MCMTdataprep packages.
+This package will be furthermore deveolped to add new features.
+
+**Used by:** Statistical office of Canton Ticino (Ustat)
 
 
 ## Statistical Routines
@@ -59,6 +100,8 @@ temporal disaggregation methods are used to disaggregate and interpolate a low f
 Easy-to-use interface to X-13-ARIMA-SEATS, the seasonal adjustment software by the US Census Bureau.
 
 **Used by:** State Secretariat of Economic Affairs
+
+
 
 
 
@@ -86,5 +129,3 @@ statR provides functions to export nicely formatted .xlsx, color palettes, a ggp
 swissdd builds upon real time data service for federal and cantonal votes provided by the Federal Statistical Office via opendata.swiss. It brings the results of popular votes, aggregated at the geographical level of choice, straight into R. 
 
 **Used by:** Statistical Office Canton of Zurich; others
-
-
