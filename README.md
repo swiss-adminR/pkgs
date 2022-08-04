@@ -132,3 +132,13 @@ The package makes use of the the [distrr](https://cran.r-project.org/web/package
 This package will be furthermore deveolped to add new features.
 
 **Used by:** Statistical office of Canton Ticino (Ustat)
+
+#### rpango
+
+The goal of rpango is to allow access the SARS-CoV-2 pango nomenclature as a tree object in R. This simplifies the manipulation of linelisting containing SARS-CoV-2 information (data validation, grouping to cluster, etc).
+
+This package was developped by the Data Science Team of the Covid-19 Taskforce of the Swiss Federal Office of Public Health with initial contributions from the Computational Evolution group of the D-BSSE of the ETH Zürich. It relies on the Tidyverse ecoystem and the tidygraph package.
+
+**Used by**: Swiss Federal Office of Public Health.
+
+**How to access**: This package is not available in a public repository. Send us an [email](mailto:samuel.colin@bag.admin.ch) to request access.
