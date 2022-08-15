@@ -5,9 +5,9 @@ A curated list of R packages created and used by Swiss public institutions
 
 ### About
 
-We try to collect and classify R packages that are are created and used by Swiss statistical offices. This should facilitate colaboration and reduce duplication. We try structure the package list and to present and discuss it on the AdminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/en/) on the 6th of Semptember 2021 in Lugano.
+We try to collect and classify R packages that are are created and used by Swiss statistical offices. This should facilitate collaboration and reduce duplication. We try structure the package list and to present and discuss it on the AdminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/en/) on the 6th of September 2021 in Lugano.
 
-Ideally, the listed packages are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explan how one could get to the package. You may also list interesting packages that are not yet public.
+Ideally, the listed packages are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explain how one could get to the package. You may also list interesting packages that are not yet public.
 
 
 ### How to list your package
