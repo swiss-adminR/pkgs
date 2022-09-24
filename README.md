@@ -61,6 +61,13 @@ Easy-to-use interface to X-13-ARIMA-SEATS, the seasonal adjustment software by t
 **Used by:** State Secretariat of Economic Affairs
 
 
+## Visualization
+
+#### [catmaply: interactive heatmaps](https://github.com/VerkehrsbetriebeZuerich/catmaply)
+
+This R package specifically focuses on providing an efficient way for creating interactive heatmaps for categorical data or continuous data that can be grouped into categories.
+
+**Used by:** Stadt Zürich - Verkehrsbetriebe (VBZ) and others
 
 
 
@@ -142,3 +149,5 @@ This package was developped by the Data Science Team of the Covid-19 Taskforce o
 **Used by**: Swiss Federal Office of Public Health.
 
 **How to access**: This package is not available in a public repository. Send us an [email](mailto:samuel.colin@bag.admin.ch) to request access.
+
+
