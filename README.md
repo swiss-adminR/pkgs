@@ -12,17 +12,25 @@ In the meantime, following the [**adminR-Spring Meetup in Aarau**](https://www.m
 Ideally, the listed packages or scripts are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explain how one could get to the package. You may also list interesting packages that are not yet public.
 
 ---
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        ℹ️ <b> How to list your package </b><br>
+        <ul>
+         <li> Write a comment on issue <a href="https://github.com/swiss-adminR/pkgs/issues/1">#1</a> (recommended)</li>
+         <li> or send us <a href = "ronald.indergand@seco.admin.ch">an email</a></li>
+         :eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts.<br>
+         :eight_pointed_black_star: Have a look at the first entry for a reference.
+        </ul>      
+      </td>
+    </tr>
+  </thead>
+</table>
+ 
+ 
 
-### How to list your package or script
- 
-To list your R code:
- 
-- Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended) :heavy_check_mark:
-- or send us [an email](ronald.indergand@seco.admin.ch) :heavy_check_mark:
- 
-:eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts. 
 
-:eight_pointed_black_star: Have a look at the first entry for a reference.
 
 ### Table of contents
 - [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
