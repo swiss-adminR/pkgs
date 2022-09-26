@@ -29,7 +29,8 @@ To list your R code:
 - [Statistical Routines](https://github.com/swiss-adminR/pkgs#statistical-routines)
 - [Visualization](https://github.com/swiss-adminR/pkgs#visualization)
 - [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
-
+- [Publication, Communication](https://github.com/swiss-adminR/pkgs#publication-communication)
+- [Specific Data](https://github.com/swiss-adminR/pkgs#specific-data)
 
 
 ## Data Handling
