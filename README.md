@@ -1,23 +1,26 @@
 # adminR Code Base
 
-A curated list of R packages created and used by Swiss public institutions
+>A curated list of R packages & R code created and used by Swiss public institutions
+
+### About 
+
+Mid 2021, we started to collect and classify R packages that are are created and used by Swiss statistical offices to facilitate collaboration and reduce duplication. We presented and discussed this first list on the adminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/images/pdfs/2021/Programm_Statistiktage_2021.pdf) on the 6th of September 2021 in Lugano.
+
+In the meantime, following the [**adminR-Spring Meetup in Aarau**](https://www.meetup.com/adminr/events/285121068/) (May 31 2022), we have further developed the idea to build and curate a set of R packages or R code in general as an infrastructure for federal and cantonal official statistics. 
+
+Ideally, the listed packages or scripts are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explain how one could get to the package. You may also list interesting packages that are not yet public.
 
 
-### About
+### How to list your package or script
 
-We try to collect and classify R packages that are are created and used by Swiss statistical offices. This should facilitate collaboration and reduce duplication. We try structure the package list and to present and discuss it on the AdminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/en/) on the 6th of September 2021 in Lugano.
+To list your R code:
 
-Ideally, the listed packages are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explain how one could get to the package. You may also list interesting packages that are not yet public.
+- Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended) :heavy_check_mark:
+- or send us [an email](ronald.indergand@seco.admin.ch) :heavy_check_mark:
 
+:eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts. 
 
-### How to list your package
-
-To list your R package:
-
-- Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended),
-- or send us [an email](ronald.indergand@seco.admin.ch).
-
-Please inclue a title, a short description and mention the users of your package. Have a look at the first entry for a reference.
+>Have a look at the first entry for a reference.
 
 
 
