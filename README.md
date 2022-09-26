@@ -25,10 +25,10 @@ To list your R code:
 >Have a look at the first entry for a reference.
 
 ### Table of contents
--[Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
--[Statistical Routines](https://github.com/swiss-adminR/pkgs#statistical-routines)
--[Visualization](https://github.com/swiss-adminR/pkgs#visualization)
--[Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
+- [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
+- [Statistical Routines](https://github.com/swiss-adminR/pkgs#statistical-routines)
+- [Visualization](https://github.com/swiss-adminR/pkgs#visualization)
+- [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
 
 
 
