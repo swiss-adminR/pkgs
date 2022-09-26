@@ -12,8 +12,8 @@ In the meantime, following the [**adminR-Spring Meetup in Aarau**](https://www.m
 Ideally, the listed packages or scripts are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explain how one could get to the package. You may also list interesting packages that are not yet public.
 
 ---
-<table style="background-color:#FFFFE0;">
-  <thead>
+<table>
+  <thead style="background-color:#FFFFE0;">
     <tr>
       <td align="left">
         ℹ️ <h2> How to list your package </h2><br>
