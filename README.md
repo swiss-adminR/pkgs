@@ -16,7 +16,7 @@ Ideally, the listed packages or scripts are publicly available, either on CRAN o
   <thead>
     <tr>
       <td align="left">
-        ℹ️ <b> How to list your package </b><br>
+        ℹ️ <h2> How to list your package </h2><br>
         <ul>
          <li> Write a comment on issue <a href="https://github.com/swiss-adminR/pkgs/issues/1">#1</a> (recommended)</li>
          <li> or send us <a href = "ronald.indergand@seco.admin.ch">an email</a></li>
