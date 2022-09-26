@@ -1,6 +1,6 @@
 # adminR Code Base
 
->A curated list of R packages & R code created and used by Swiss public institutions
+#A curated list of R packages & R code created and used by Swiss public institutions*
 
 ---
 ### About 
