@@ -13,17 +13,16 @@ Ideally, the listed packages or scripts are publicly available, either on CRAN o
 
 ---
 
-> **Note**
-> ### How to list your package or script
-> 
-> To list your R code:
-> 
-> - Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended) :heavy_check_mark:
-> - or send us [an email](ronald.indergand@seco.admin.ch) :heavy_check_mark:
-> 
-> :eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts. 
-> 
-> Have a look at the first entry for a reference.
+### How to list your package or script
+ 
+To list your R code:
+ 
+- Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended) :heavy_check_mark:
+- or send us [an email](ronald.indergand@seco.admin.ch) :heavy_check_mark:
+ 
+:eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts. 
+
+|Have a look at the first entry for a reference.
 
 ### Table of contents
 - [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
