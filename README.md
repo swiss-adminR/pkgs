@@ -13,7 +13,7 @@ Ideally, the listed packages or scripts are publicly available, either on CRAN o
 
 ---
 <table>
-  <thead style=background-color="#FFFFE0">
+  <thead bgcolor="#FFFFE0">
     <tr>
       <td align="left">
         <h3> ℹ️ How to list your package or script </h3><br>
