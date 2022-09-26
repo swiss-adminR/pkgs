@@ -20,8 +20,8 @@ Ideally, the listed packages or scripts are publicly available, either on CRAN o
         <ul>
          <li> Write a comment on issue <a href="https://github.com/swiss-adminR/pkgs/issues/1">#1</a> (recommended)</li>
          <li> or send us <a href = "ronald.indergand@seco.admin.ch">an email</a></li>
-         :eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts.<br>
-         :eight_pointed_black_star: Have a look at the first entry for a reference.
+         <li> Please include a title, a short description and mention the users of your package or scripts.</li>
+         <li> Have a look at the first entry for a reference.</li>
         </ul>      
       </td>
     </tr>
