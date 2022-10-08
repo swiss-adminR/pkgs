@@ -125,7 +125,7 @@ This package projects the population of canton Aargau at cantonal or regional le
 
 **Used by**: Statistik Aargau (internal application).
 
-**How to access**: This package is not available in a public repository. Send us an [email](mailto:tina.cornioley@ag.ch).
+**How to access**: This package is not available in a public repository. Send us an [email](mailto:niklas.haffert@ag.ch).
 
 
 #### staaggemeindeport
