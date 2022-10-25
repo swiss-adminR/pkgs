@@ -33,10 +33,9 @@ Ideally, the listed packages or scripts are publicly available, either on CRAN o
 
 
 ### Table of contents
-- [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
+- [Data Handling](https://swiss-adminr.github.io/pkgs#data-handling)
 - [Statistical Routines](https://github.com/swiss-adminR/pkgs#statistical-routines)
 - [Visualization](https://github.com/swiss-adminR/pkgs#visualization)
-- [Data Handling](https://github.com/swiss-adminR/pkgs#data-handling)
 - [Publication, Communication](https://github.com/swiss-adminR/pkgs#publication-communication)
 - [Specific Data](https://github.com/swiss-adminR/pkgs#specific-data)
 
