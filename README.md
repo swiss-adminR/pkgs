@@ -161,7 +161,7 @@ This package contains the entire collection of code for the shiny app Gemeindepo
 
 #### staagbevprojektionswebapp
 
-This package contains the entire collection of code for the shiny app «Bevölkerungsprojektion Kanton Aargau» (not published yet). The webapp is based on the projected population data by Statistik Aargau (accessible via different APIs or [the official website]([https://www.ag.ch/de/dfr/statistik/statistik.jsp](https://www.ag.ch/de/verwaltung/dfr/statistik/publikationen-und-analysen?dc=412ea8b9-10fc-44df-9b0f-7cddc9782ff5_de))).
+This package contains the entire collection of code for the shiny app «Bevölkerungsprojektion Kanton Aargau» (not published yet). The webapp is based on the projected population data by Statistik Aargau (accessible via different APIs or [the official website](https://www.ag.ch/de/verwaltung/dfr/statistik/publikationen-und-analysen?dc=412ea8b9-10fc-44df-9b0f-7cddc9782ff5_de)).
 
 **Used by:** Statistik Aargau (internal application).
 
