@@ -134,8 +134,15 @@ This package contains the entire collection of code for the shiny app Gemeindepo
 
 **Used by:** Statistik Aargau (internal application).
 
+**How to access:** The package / code has not been published online yet. Send us an [email](mailto:nelson.stevens@ag.ch).
 
-**How to access:** The package / Code has not been published online yet. Send us an [email](mailto:nelson.stevens@ag.ch).
+#### staagbevprojektionswebapp
+
+This package contains the entire collection of code for the shiny app «Bevölkerungsprojektion Kanton Aargau» (not published yet). The webapp is based on the projected population data by Statistik Aargau (accessible via different APIs or [the official website]([https://www.ag.ch/de/dfr/statistik/statistik.jsp](https://www.ag.ch/de/verwaltung/dfr/statistik/publikationen-und-analysen?dc=412ea8b9-10fc-44df-9b0f-7cddc9782ff5_de))).
+
+**Used by:** Statistik Aargau (internal application).
+
+**How to access:** The package / code / app has not been published online yet and is still work in progress. For more Information send us an [email](mailto:philipp.imhof@ag.ch).
 
 
 #### [MCMTdatalistcreation: functions to import MZMV raw data and organize it in a list class R data object](https://gitlab.com/MicheleUSTAT/mcmtdatalistcreation)
