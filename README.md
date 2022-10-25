@@ -63,6 +63,15 @@ Read Swiss time series data from the 'KOF Datenservice' API, <https://datenservi
 
 **Used by**: KOF Swiss Economic Institute, SNB, several cantonal statistical offices
 
+#### targets-pipelines used by Statistik Aargau
+
+At Statistik Aargau, we use several [{targets}](https://docs.ropensci.org/targets/)-pipelines to organize, maintain and run our data analysis workflows.
+
+**Used by:** Statistik Aargau (internal application).
+
+**How to access:** The package / code has not been published online yet. Send us an [email](mailto:niklas.haffert@ag.ch).
+
+
 
 ## Statistical Routines
 
