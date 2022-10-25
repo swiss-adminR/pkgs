@@ -115,6 +115,13 @@ swissdd builds upon real time data service for federal and cantonal votes provid
 
 **Used by:** Statistical Office Canton of Zurich; others
 
+#### staagED
+
+This package allows to create E-Dossiers (publication-ready Excel workbooks with tables and graphics) directly from R. The package relies heavily on the {openxlsx} package and simplifies the usage for the creation of informative workbooks for end users.    
+
+**Used by:** Statistik Aargau (internal application).
+
+**How to access:** The package / code has not been published online yet. Send us an [email](mailto:niklas.haffert@ag.ch).
 
 
 ## Specific Data
