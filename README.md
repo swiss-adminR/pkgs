@@ -125,7 +125,7 @@ This package allows to create E-Dossiers (publication-ready Excel workbooks with
 
 #### staagAGZ
 
-staagAGZ provides functions for creating the ["Aargauer Zahlen"] (https://www.ag.ch/de/verwaltung/dfr/statistik/bestellungen/aargauer-zahlen) in pdf format from an R Markdown document. In particular, the functions produce LaTeX code within the R Markdown document (using the LaTeX-package tabularray) for creating the tables in the desired layout.
+staagAGZ provides functions for creating the ["Aargauer Zahlen"](https://www.ag.ch/de/verwaltung/dfr/statistik/bestellungen/aargauer-zahlen) in pdf format from an R Markdown document. In particular, the functions produce LaTeX code within the R Markdown document (using the LaTeX-package tabularray) for creating the tables in the desired layout.
 
 **Used by:** Statistik Aargau (internal application).
 
