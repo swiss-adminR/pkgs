@@ -69,7 +69,7 @@ At Statistik Aargau, we use several [{targets}](https://docs.ropensci.org/target
 
 **Used by:** Statistik Aargau (internal application).
 
-**How to access:** The package / code has not been published online yet. Send us an [email](mailto:niklas.haffert@ag.ch).
+**How to access:** The code has not been published online yet. Send us an [email](mailto:niklas.haffert@ag.ch).
 
 
 
